@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+## Here is a list of my favorite things
+- Reading
+- Baking & Cooking
+- Geneaology
+- Listening to music
+- Open Source
+- Learning new things
